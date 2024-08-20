@@ -1,5 +1,5 @@
 {
-  "name": "react-auto-permission",
+  "name": "@sinigan/react-auto-permission",
   "version": "1.0.0",
   "description": "react-auto-permission",
   "main": "index.js",
