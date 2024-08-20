@@ -8,6 +8,9 @@
   "keywords": [],
   "author": "Sinigan",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/sinigan3/react-auto-permission"
+  },
   "dependencies": {
   },
   "peerDependencies": {
